@@ -2,9 +2,6 @@
 Python application that analyses the top crops at any given time, depending on the season or production.
 
 
-[Open in Colab](https://colab.research.google.com/drive/1u-PcYyfRPCfZqAOIq5BgnNHy5I1X7i-3#scrollTo=ksPldRVMXlP7)
-
-The proposed system predicts the crop production for the given region.
 ## Dataset info
 The dataset used for this project is available [here](https://data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997)
 
